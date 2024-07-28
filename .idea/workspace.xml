@@ -6,9 +6,14 @@
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/hello-world/Cargo.toml" />
     <cargoProject FILE="$PROJECT_DIR$/gigasecond/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/clock/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/anagram/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/space-age/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce0805e-b0f1-4cb8-bba7-cc859e608fa1" name="Changes" comment="exercism rust exercise 2" />
+    <list default="true" id="8ce0805e-b0f1-4cb8-bba7-cc859e608fa1" name="Changes" comment="exercism rust exercise 6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +59,7 @@
     "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
     "org.rust.first.attach.projects": "true",
     "org.rust.hideNoCargoProjectNotificationsC:/Users/sergi/Desktop/code/rust/reverse-string/tests/reverse-string.rs": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -95,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1722090570350</updated>
       <workItem from="1722090571431" duration="5728000" />
-      <workItem from="1722096682143" duration="3021000" />
+      <workItem from="1722096682143" duration="7120000" />
+      <workItem from="1722190688751" duration="8999000" />
     </task>
     <task id="LOCAL-00001" summary="exercism rust exercise 2">
       <option name="closed" value="true" />
@@ -105,7 +111,39 @@
       <option name="project" value="LOCAL" />
       <updated>1722096031606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercism rust exercise 3">
+      <option name="closed" value="true" />
+      <created>1722099983715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722099983715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exercism rust exercise 4">
+      <option name="closed" value="true" />
+      <created>1722103703051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722103703051</updated>
+    </task>
+    <task id="LOCAL-00004" summary="exercism rust exercise 5">
+      <option name="closed" value="true" />
+      <created>1722194751121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722194751121</updated>
+    </task>
+    <task id="LOCAL-00005" summary="exercism rust exercise 6">
+      <option name="closed" value="true" />
+      <created>1722199405048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722199405048</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +151,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercism rust exercise 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercism rust exercise 2" />
+    <MESSAGE value="exercism rust exercise 3" />
+    <MESSAGE value="exercism rust exercise 4" />
+    <MESSAGE value="exercism rust exercise 5" />
+    <MESSAGE value="exercism rust exercise 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercism rust exercise 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
